@@ -44,4 +44,6 @@ Descrição: Recebe via body objeto json com email e senha para a autenticação
 
 Exemplo: {"email": "email", "senha": "1234"}
 
+#### Para demais endpoints
 
+Para a tentativa de acesso a qualquer outro tipo de endpoint além dos citados aqui, o objeto json é retornado: {"mensagem":"Recurso não encontrado."}
