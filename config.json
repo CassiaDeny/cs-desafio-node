@@ -1,0 +1,23 @@
+{
+	"msgs":{
+		"fieldName": " O campo Nome não foi informado.",
+		"fieldEmail": " O campo Email não foi informado.",
+		"fieldPassword": " O campo Senha não foi informado.",
+		"fieldPhones": " Nenhum telefone foi infornado.",
+		"emailAlreadyRegistered": "E-mail já existente.",
+		"databaseFailConnection": "Não foi possível conectar com o banco de dados.",
+		"databaseErrorFindEmail": "Erro ao pesquisar o email.",
+		"databaseErrorCreateNew": "Erro ao criar um novo usuário.",
+		"encriptError": "Erro ao encriptar a senha.",
+		"invalidLogin": "Usuário e/ou senha inválidos.",
+		"notAuthorized" : "Não autorizado.",
+		"invalidSession": "Sessão inválida.",
+		"resourceNotFound" : "Recurso não encontrado.",
+		"invalidContentType" : "Somente é permitido o content-type 'application/json'."
+	},
+	"contentType": {
+		"key": "content-type", 
+		"value": "application/json"
+	},
+	"minutesValidToken":30
+}

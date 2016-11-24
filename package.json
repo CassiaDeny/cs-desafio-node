@@ -1,0 +1,31 @@
+{
+  "name": "cs-desafio-node",
+  "version": "1.0.0",
+  "description": "Você precisa instalar o Node.js e uma instância do MongoDB.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "bcrypt-nodejs": "^0.0.3",
+    "http-status": "^0.2.3",
+    "mongodb": "^2.2.11",
+    "jwt-simple": "^0.5.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CassiaDeny/cs-desafio-node.git"
+  },
+  "author": "Cássia Denyelli Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CassiaDeny/cs-desafio-node/issues"
+  },
+  "homepage": "https://github.com/CassiaDeny/cs-desafio-node#readme"
+}
